@@ -1,0 +1,11 @@
+check,count
+rows_in,13833
+exact_duplicate_rows_removed,204
+unparseable_dates_removed,0
+region_labels_standardised,1700
+unknown_region_removed,0
+missing_units_removed,161
+zero_or_negative_units_removed,25
+outlier_units_removed,15
+missing_net_value_imputed,132
+rows_out,13428

@@ -1,0 +1,479 @@
+month,region,category,target_units
+2024-01,East,Air Cooler,9
+2024-01,East,Refrigerator,11
+2024-01,East,Split AC,11
+2024-01,East,Washing Machine,17
+2024-01,East,Window AC,2
+2024-01,North,Air Cooler,12
+2024-01,North,Refrigerator,15
+2024-01,North,Split AC,25
+2024-01,North,Washing Machine,20
+2024-01,South,Air Cooler,14
+2024-01,South,Refrigerator,17
+2024-01,South,Split AC,19
+2024-01,South,Washing Machine,10
+2024-01,South,Window AC,1
+2024-01,West,Air Cooler,20
+2024-01,West,Refrigerator,18
+2024-01,West,Split AC,32
+2024-01,West,Washing Machine,12
+2024-01,West,Window AC,3
+2024-02,East,Air Cooler,26
+2024-02,East,Refrigerator,14
+2024-02,East,Split AC,20
+2024-02,East,Washing Machine,10
+2024-02,East,Window AC,2
+2024-02,North,Air Cooler,50
+2024-02,North,Refrigerator,23
+2024-02,North,Split AC,45
+2024-02,North,Washing Machine,16
+2024-02,North,Window AC,9
+2024-02,South,Air Cooler,27
+2024-02,South,Refrigerator,34
+2024-02,South,Split AC,27
+2024-02,South,Washing Machine,8
+2024-02,South,Window AC,8
+2024-02,West,Air Cooler,33
+2024-02,West,Refrigerator,26
+2024-02,West,Split AC,44
+2024-02,West,Washing Machine,20
+2024-02,West,Window AC,13
+2024-03,East,Air Cooler,82
+2024-03,East,Refrigerator,6
+2024-03,East,Split AC,70
+2024-03,East,Washing Machine,8
+2024-03,East,Window AC,5
+2024-03,North,Air Cooler,106
+2024-03,North,Refrigerator,22
+2024-03,North,Split AC,100
+2024-03,North,Washing Machine,20
+2024-03,North,Window AC,20
+2024-03,South,Air Cooler,90
+2024-03,South,Refrigerator,25
+2024-03,South,Split AC,83
+2024-03,South,Washing Machine,13
+2024-03,South,Window AC,23
+2024-03,West,Air Cooler,93
+2024-03,West,Refrigerator,25
+2024-03,West,Split AC,83
+2024-03,West,Washing Machine,14
+2024-03,West,Window AC,18
+2024-04,East,Air Cooler,112
+2024-04,East,Refrigerator,11
+2024-04,East,Split AC,68
+2024-04,East,Washing Machine,11
+2024-04,East,Window AC,16
+2024-04,North,Air Cooler,198
+2024-04,North,Refrigerator,35
+2024-04,North,Split AC,140
+2024-04,North,Washing Machine,15
+2024-04,North,Window AC,40
+2024-04,South,Air Cooler,124
+2024-04,South,Refrigerator,20
+2024-04,South,Split AC,116
+2024-04,South,Washing Machine,16
+2024-04,South,Window AC,25
+2024-04,West,Air Cooler,155
+2024-04,West,Refrigerator,18
+2024-04,West,Split AC,178
+2024-04,West,Washing Machine,11
+2024-04,West,Window AC,24
+2024-05,East,Air Cooler,111
+2024-05,East,Refrigerator,21
+2024-05,East,Split AC,102
+2024-05,East,Washing Machine,7
+2024-05,East,Window AC,20
+2024-05,North,Air Cooler,157
+2024-05,North,Refrigerator,28
+2024-05,North,Split AC,171
+2024-05,North,Washing Machine,15
+2024-05,North,Window AC,43
+2024-05,South,Air Cooler,145
+2024-05,South,Refrigerator,21
+2024-05,South,Split AC,143
+2024-05,South,Washing Machine,22
+2024-05,South,Window AC,16
+2024-05,West,Air Cooler,179
+2024-05,West,Refrigerator,24
+2024-05,West,Split AC,176
+2024-05,West,Washing Machine,16
+2024-05,West,Window AC,20
+2024-06,East,Air Cooler,65
+2024-06,East,Refrigerator,12
+2024-06,East,Split AC,61
+2024-06,East,Washing Machine,16
+2024-06,East,Window AC,13
+2024-06,North,Air Cooler,65
+2024-06,North,Refrigerator,23
+2024-06,North,Split AC,127
+2024-06,North,Washing Machine,18
+2024-06,North,Window AC,17
+2024-06,South,Air Cooler,109
+2024-06,South,Refrigerator,14
+2024-06,South,Split AC,81
+2024-06,South,Washing Machine,12
+2024-06,South,Window AC,20
+2024-06,West,Air Cooler,110
+2024-06,West,Refrigerator,13
+2024-06,West,Split AC,80
+2024-06,West,Washing Machine,8
+2024-06,West,Window AC,9
+2024-07,East,Air Cooler,12
+2024-07,East,Refrigerator,15
+2024-07,East,Split AC,33
+2024-07,East,Washing Machine,12
+2024-07,East,Window AC,5
+2024-07,North,Air Cooler,18
+2024-07,North,Refrigerator,27
+2024-07,North,Split AC,71
+2024-07,North,Washing Machine,24
+2024-07,North,Window AC,8
+2024-07,South,Air Cooler,29
+2024-07,South,Refrigerator,12
+2024-07,South,Split AC,38
+2024-07,South,Washing Machine,8
+2024-07,South,Window AC,9
+2024-07,West,Air Cooler,28
+2024-07,West,Refrigerator,12
+2024-07,West,Split AC,52
+2024-07,West,Washing Machine,21
+2024-07,West,Window AC,14
+2024-08,East,Air Cooler,12
+2024-08,East,Refrigerator,15
+2024-08,East,Split AC,17
+2024-08,East,Washing Machine,9
+2024-08,East,Window AC,4
+2024-08,North,Air Cooler,24
+2024-08,North,Refrigerator,22
+2024-08,North,Split AC,30
+2024-08,North,Washing Machine,16
+2024-08,North,Window AC,5
+2024-08,South,Air Cooler,21
+2024-08,South,Refrigerator,11
+2024-08,South,Split AC,37
+2024-08,South,Washing Machine,15
+2024-08,South,Window AC,6
+2024-08,West,Air Cooler,29
+2024-08,West,Refrigerator,6
+2024-08,West,Split AC,35
+2024-08,West,Washing Machine,30
+2024-08,West,Window AC,4
+2024-09,East,Air Cooler,11
+2024-09,East,Refrigerator,9
+2024-09,East,Split AC,17
+2024-09,East,Washing Machine,12
+2024-09,East,Window AC,2
+2024-09,North,Air Cooler,27
+2024-09,North,Refrigerator,41
+2024-09,North,Split AC,29
+2024-09,North,Washing Machine,16
+2024-09,North,Window AC,7
+2024-09,South,Air Cooler,28
+2024-09,South,Refrigerator,25
+2024-09,South,Split AC,25
+2024-09,South,Washing Machine,26
+2024-09,South,Window AC,4
+2024-09,West,Air Cooler,28
+2024-09,West,Refrigerator,24
+2024-09,West,Split AC,32
+2024-09,West,Washing Machine,20
+2024-09,West,Window AC,3
+2024-10,East,Air Cooler,10
+2024-10,East,Refrigerator,25
+2024-10,East,Split AC,7
+2024-10,East,Washing Machine,13
+2024-10,North,Air Cooler,26
+2024-10,North,Refrigerator,31
+2024-10,North,Split AC,30
+2024-10,North,Washing Machine,15
+2024-10,North,Window AC,7
+2024-10,South,Air Cooler,17
+2024-10,South,Refrigerator,12
+2024-10,South,Split AC,28
+2024-10,South,Washing Machine,6
+2024-10,South,Window AC,2
+2024-10,West,Air Cooler,15
+2024-10,West,Refrigerator,28
+2024-10,West,Split AC,27
+2024-10,West,Washing Machine,20
+2024-10,West,Window AC,4
+2024-11,East,Air Cooler,11
+2024-11,East,Refrigerator,17
+2024-11,East,Split AC,9
+2024-11,East,Washing Machine,6
+2024-11,East,Window AC,1
+2024-11,North,Air Cooler,30
+2024-11,North,Refrigerator,39
+2024-11,North,Split AC,33
+2024-11,North,Washing Machine,28
+2024-11,North,Window AC,2
+2024-11,South,Air Cooler,23
+2024-11,South,Refrigerator,9
+2024-11,South,Split AC,11
+2024-11,South,Washing Machine,15
+2024-11,South,Window AC,2
+2024-11,West,Air Cooler,25
+2024-11,West,Refrigerator,28
+2024-11,West,Split AC,25
+2024-11,West,Washing Machine,37
+2024-11,West,Window AC,1
+2024-12,East,Air Cooler,12
+2024-12,East,Refrigerator,16
+2024-12,East,Split AC,13
+2024-12,East,Washing Machine,10
+2024-12,East,Window AC,1
+2024-12,North,Air Cooler,10
+2024-12,North,Refrigerator,18
+2024-12,North,Split AC,26
+2024-12,North,Washing Machine,23
+2024-12,North,Window AC,4
+2024-12,South,Air Cooler,21
+2024-12,South,Refrigerator,3
+2024-12,South,Split AC,20
+2024-12,South,Washing Machine,4
+2024-12,South,Window AC,2
+2024-12,West,Air Cooler,31
+2024-12,West,Refrigerator,24
+2024-12,West,Split AC,20
+2024-12,West,Washing Machine,17
+2024-12,West,Window AC,3
+2025-01,East,Air Cooler,15
+2025-01,East,Refrigerator,8
+2025-01,East,Split AC,23
+2025-01,East,Washing Machine,18
+2025-01,East,Window AC,0
+2025-01,North,Air Cooler,11
+2025-01,North,Refrigerator,26
+2025-01,North,Split AC,23
+2025-01,North,Washing Machine,31
+2025-01,North,Window AC,3
+2025-01,South,Air Cooler,16
+2025-01,South,Refrigerator,11
+2025-01,South,Split AC,23
+2025-01,South,Washing Machine,20
+2025-01,South,Window AC,2
+2025-01,West,Air Cooler,19
+2025-01,West,Refrigerator,23
+2025-01,West,Split AC,23
+2025-01,West,Washing Machine,13
+2025-01,West,Window AC,2
+2025-02,East,Air Cooler,40
+2025-02,East,Refrigerator,18
+2025-02,East,Split AC,31
+2025-02,East,Washing Machine,12
+2025-02,East,Window AC,8
+2025-02,North,Air Cooler,54
+2025-02,North,Refrigerator,12
+2025-02,North,Split AC,40
+2025-02,North,Washing Machine,16
+2025-02,North,Window AC,10
+2025-02,South,Air Cooler,60
+2025-02,South,Refrigerator,14
+2025-02,South,Split AC,29
+2025-02,South,Washing Machine,11
+2025-02,South,Window AC,11
+2025-02,West,Air Cooler,57
+2025-02,West,Refrigerator,12
+2025-02,West,Split AC,38
+2025-02,West,Washing Machine,17
+2025-02,West,Window AC,6
+2025-03,East,Air Cooler,66
+2025-03,East,Refrigerator,20
+2025-03,East,Split AC,45
+2025-03,East,Washing Machine,10
+2025-03,East,Window AC,5
+2025-03,North,Air Cooler,205
+2025-03,North,Refrigerator,9
+2025-03,North,Split AC,132
+2025-03,North,Washing Machine,16
+2025-03,North,Window AC,25
+2025-03,South,Air Cooler,130
+2025-03,South,Refrigerator,19
+2025-03,South,Split AC,85
+2025-03,South,Washing Machine,15
+2025-03,South,Window AC,11
+2025-03,West,Air Cooler,156
+2025-03,West,Refrigerator,15
+2025-03,West,Split AC,103
+2025-03,West,Washing Machine,15
+2025-03,West,Window AC,21
+2025-04,East,Air Cooler,162
+2025-04,East,Refrigerator,17
+2025-04,East,Split AC,91
+2025-04,East,Washing Machine,10
+2025-04,East,Window AC,19
+2025-04,North,Air Cooler,240
+2025-04,North,Refrigerator,26
+2025-04,North,Split AC,127
+2025-04,North,Washing Machine,25
+2025-04,North,Window AC,38
+2025-04,South,Air Cooler,158
+2025-04,South,Refrigerator,28
+2025-04,South,Split AC,122
+2025-04,South,Washing Machine,7
+2025-04,South,Window AC,19
+2025-04,West,Air Cooler,137
+2025-04,West,Refrigerator,40
+2025-04,West,Split AC,138
+2025-04,West,Washing Machine,16
+2025-04,West,Window AC,15
+2025-05,East,Air Cooler,134
+2025-05,East,Refrigerator,21
+2025-05,East,Split AC,116
+2025-05,East,Washing Machine,17
+2025-05,East,Window AC,11
+2025-05,North,Air Cooler,218
+2025-05,North,Refrigerator,24
+2025-05,North,Split AC,199
+2025-05,North,Washing Machine,28
+2025-05,North,Window AC,40
+2025-05,South,Air Cooler,171
+2025-05,South,Refrigerator,28
+2025-05,South,Split AC,110
+2025-05,South,Washing Machine,34
+2025-05,South,Window AC,21
+2025-05,West,Air Cooler,169
+2025-05,West,Refrigerator,47
+2025-05,West,Split AC,167
+2025-05,West,Washing Machine,24
+2025-05,West,Window AC,41
+2025-06,East,Air Cooler,48
+2025-06,East,Refrigerator,15
+2025-06,East,Split AC,101
+2025-06,East,Washing Machine,10
+2025-06,East,Window AC,13
+2025-06,North,Air Cooler,76
+2025-06,North,Refrigerator,20
+2025-06,North,Split AC,163
+2025-06,North,Washing Machine,21
+2025-06,North,Window AC,26
+2025-06,South,Air Cooler,87
+2025-06,South,Refrigerator,15
+2025-06,South,Split AC,123
+2025-06,South,Washing Machine,12
+2025-06,South,Window AC,22
+2025-06,West,Air Cooler,53
+2025-06,West,Refrigerator,26
+2025-06,West,Split AC,123
+2025-06,West,Washing Machine,16
+2025-06,West,Window AC,18
+2025-07,East,Air Cooler,36
+2025-07,East,Refrigerator,19
+2025-07,East,Split AC,33
+2025-07,East,Washing Machine,14
+2025-07,East,Window AC,7
+2025-07,North,Air Cooler,52
+2025-07,North,Refrigerator,22
+2025-07,North,Split AC,64
+2025-07,North,Washing Machine,21
+2025-07,North,Window AC,9
+2025-07,South,Air Cooler,24
+2025-07,South,Refrigerator,24
+2025-07,South,Split AC,57
+2025-07,South,Washing Machine,22
+2025-07,South,Window AC,5
+2025-07,West,Air Cooler,44
+2025-07,West,Refrigerator,25
+2025-07,West,Split AC,49
+2025-07,West,Washing Machine,18
+2025-07,West,Window AC,11
+2025-08,East,Air Cooler,19
+2025-08,East,Refrigerator,4
+2025-08,East,Split AC,20
+2025-08,East,Washing Machine,11
+2025-08,East,Window AC,4
+2025-08,North,Air Cooler,24
+2025-08,North,Refrigerator,32
+2025-08,North,Split AC,41
+2025-08,North,Washing Machine,14
+2025-08,North,Window AC,8
+2025-08,South,Air Cooler,18
+2025-08,South,Refrigerator,18
+2025-08,South,Split AC,30
+2025-08,South,Washing Machine,14
+2025-08,South,Window AC,3
+2025-08,West,Air Cooler,29
+2025-08,West,Refrigerator,28
+2025-08,West,Split AC,19
+2025-08,West,Washing Machine,21
+2025-08,West,Window AC,4
+2025-09,East,Air Cooler,23
+2025-09,East,Refrigerator,11
+2025-09,East,Split AC,20
+2025-09,East,Washing Machine,12
+2025-09,East,Window AC,3
+2025-09,North,Air Cooler,23
+2025-09,North,Refrigerator,20
+2025-09,North,Split AC,45
+2025-09,North,Washing Machine,22
+2025-09,North,Window AC,2
+2025-09,South,Air Cooler,19
+2025-09,South,Refrigerator,22
+2025-09,South,Split AC,15
+2025-09,South,Washing Machine,24
+2025-09,South,Window AC,2
+2025-09,West,Air Cooler,22
+2025-09,West,Refrigerator,9
+2025-09,West,Split AC,25
+2025-09,West,Washing Machine,14
+2025-09,West,Window AC,10
+2025-10,East,Air Cooler,10
+2025-10,East,Refrigerator,22
+2025-10,East,Split AC,24
+2025-10,East,Washing Machine,8
+2025-10,East,Window AC,2
+2025-10,North,Air Cooler,23
+2025-10,North,Refrigerator,39
+2025-10,North,Split AC,29
+2025-10,North,Washing Machine,20
+2025-10,North,Window AC,6
+2025-10,South,Air Cooler,22
+2025-10,South,Refrigerator,45
+2025-10,South,Split AC,23
+2025-10,South,Washing Machine,23
+2025-10,South,Window AC,2
+2025-10,West,Air Cooler,25
+2025-10,West,Refrigerator,21
+2025-10,West,Split AC,31
+2025-10,West,Washing Machine,20
+2025-10,West,Window AC,7
+2025-11,East,Air Cooler,9
+2025-11,East,Refrigerator,24
+2025-11,East,Split AC,11
+2025-11,East,Washing Machine,16
+2025-11,East,Window AC,1
+2025-11,North,Air Cooler,30
+2025-11,North,Refrigerator,32
+2025-11,North,Split AC,24
+2025-11,North,Washing Machine,25
+2025-11,North,Window AC,2
+2025-11,South,Air Cooler,27
+2025-11,South,Refrigerator,21
+2025-11,South,Split AC,21
+2025-11,South,Washing Machine,14
+2025-11,South,Window AC,4
+2025-11,West,Air Cooler,1
+2025-11,West,Refrigerator,26
+2025-11,West,Split AC,30
+2025-11,West,Washing Machine,18
+2025-11,West,Window AC,3
+2025-12,East,Air Cooler,7
+2025-12,East,Refrigerator,11
+2025-12,East,Split AC,10
+2025-12,East,Washing Machine,13
+2025-12,East,Window AC,4
+2025-12,North,Air Cooler,22
+2025-12,North,Refrigerator,16
+2025-12,North,Split AC,37
+2025-12,North,Washing Machine,36
+2025-12,North,Window AC,5
+2025-12,South,Air Cooler,18
+2025-12,South,Refrigerator,16
+2025-12,South,Split AC,11
+2025-12,South,Washing Machine,19
+2025-12,South,Window AC,3
+2025-12,West,Air Cooler,7
+2025-12,West,Refrigerator,25
+2025-12,West,Split AC,19
+2025-12,West,Washing Machine,6
+2025-12,West,Window AC,3

@@ -1,0 +1,49 @@
+dealer_id,region,state
+D001,North,Delhi
+D002,North,Delhi
+D003,North,Delhi
+D004,North,Punjab
+D005,North,Punjab
+D006,North,Punjab
+D007,North,Uttar Pradesh
+D008,North,Uttar Pradesh
+D009,North,Uttar Pradesh
+D010,North,Rajasthan
+D011,North,Rajasthan
+D012,North,Rajasthan
+D013,South,Karnataka
+D014,South,Karnataka
+D015,South,Karnataka
+D016,South,Tamil Nadu
+D017,South,Tamil Nadu
+D018,South,Tamil Nadu
+D019,South,Telangana
+D020,South,Telangana
+D021,South,Telangana
+D022,South,Kerala
+D023,South,Kerala
+D024,South,Kerala
+D025,East,West Bengal
+D026,East,West Bengal
+D027,East,West Bengal
+D028,East,Odisha
+D029,East,Odisha
+D030,East,Odisha
+D031,East,Bihar
+D032,East,Bihar
+D033,East,Bihar
+D034,East,Assam
+D035,East,Assam
+D036,East,Assam
+D037,West,Maharashtra
+D038,West,Maharashtra
+D039,West,Maharashtra
+D040,West,Gujarat
+D041,West,Gujarat
+D042,West,Gujarat
+D043,West,Madhya Pradesh
+D044,West,Madhya Pradesh
+D045,West,Madhya Pradesh
+D046,West,Goa
+D047,West,Goa
+D048,West,Goa
